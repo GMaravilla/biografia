@@ -9,7 +9,22 @@ body{
     padding: 10px;
 }
 
+.col-3{
+    display: block;
+    padding-left: 2%;
+    padding-top: 1%;
+}
+
 img{
     width: 300px;
     height: 400px;
+}
+
+p, h1{
+    font-family: 'Prosto One';
+    font-style: oblique;
+    font-weight: bold;
+}
+.fs-2{
+    text-align: center;
 }
